@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e63da4c2.css",
+    "main.js": "/static/js/main.deb84286.js",
+    "static/js/787.4d2b7239.chunk.js": "/static/js/787.4d2b7239.chunk.js",
+    "static/media/bg-page-inner.webp": "/static/media/bg-page-inner.e61fffe39359eb2390a7.webp",
+    "static/media/bg-page-inner-md.webp": "/static/media/bg-page-inner-md.b6d0b38eb61828902030.webp",
+    "static/media/hero-cake.webp": "/static/media/hero-cake.fb171c8a2066ff5a14da.webp",
+    "static/media/dream-shape-cake.webp": "/static/media/dream-shape-cake.c9254cc1322fa2692a8c.webp",
+    "static/media/wedding-cake.webp": "/static/media/wedding-cake.86a35c2b1d5fb9c709fe.webp",
+    "static/media/photo-cake.webp": "/static/media/photo-cake.31d7ed59d2fca5e57f2d.webp",
+    "static/media/404.svg": "/static/media/404.c0280da1cc213b3187cc3f1ae83bccb7.svg",
+    "static/media/birthday-cake.webp": "/static/media/birthday-cake.5e47f15fb8075e56f0c8.webp",
+    "static/media/cake-inner.webp": "/static/media/cake-inner.a868402cea50907c5fbb.webp",
+    "static/media/bg-page-inner-sm.webp": "/static/media/bg-page-inner-sm.7e12de47b1c7ffcd3910.webp",
+    "static/media/superhero-cake.webp": "/static/media/superhero-cake.d1b5dc72a5050a1105fc.webp",
+    "static/media/bg-newly-launch.webp": "/static/media/bg-newly-launch.f8d8520a007fe4a1e6f3.webp",
+    "static/media/anniversary-cake.webp": "/static/media/anniversary-cake.785a0cf13782f2b32818.webp",
+    "static/media/bg-banner.webp": "/static/media/bg-banner.b2b20e4237ca8808a643.webp",
+    "static/media/bg-banner-inner.webp": "/static/media/bg-banner-inner.3ff218f8bcd6c743a49f.webp",
+    "static/media/logo.webp": "/static/media/logo.fcd18a8e905139c20e3f.webp",
+    "static/media/bg-page.webp": "/static/media/bg-page.5fa52841c435aa045813.webp",
+    "static/media/4.webp": "/static/media/4.55568f13a7854bcc7011.webp",
+    "static/media/9.webp": "/static/media/9.55568f13a7854bcc7011.webp",
+    "static/media/5.webp": "/static/media/5.35cb13f02aaeb8e8260a.webp",
+    "static/media/2.webp": "/static/media/2.ed9baf7783bf3a55ffe5.webp",
+    "static/media/3.webp": "/static/media/3.bc0224c5b59b9c0b8b9f.webp",
+    "static/media/10.webp": "/static/media/10.79789cc889e1e331c809.webp",
+    "static/media/7.webp": "/static/media/7.cdfb91c56f84415d38fc.webp",
+    "static/media/8.webp": "/static/media/8.d139cea5c53158a22958.webp",
+    "static/media/1.webp": "/static/media/1.e3139fc52d02efd3a0d8.webp",
+    "static/media/6.webp": "/static/media/6.09dbc8b2a9d73c8255af.webp",
+    "index.html": "/index.html",
+    "static/media/bg-footer.webp": "/static/media/bg-footer.1a6d36614ea6844a66e3.webp",
+    "main.e63da4c2.css.map": "/static/css/main.e63da4c2.css.map",
+    "main.deb84286.js.map": "/static/js/main.deb84286.js.map",
+    "787.4d2b7239.chunk.js.map": "/static/js/787.4d2b7239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e63da4c2.css",
+    "static/js/main.deb84286.js"
+  ]
+}
