@@ -18,21 +18,14 @@ import {SlideshowLightbox} from 'lightbox.js-react'
 import { useState } from 'react';
 import Button from 'react-bootstrap/Button';
 import Modal from 'react-bootstrap/Modal';
+import useScrollToTop from '../../component/useScrolltotop';
 
 
 function Category() {
-  const scrollToTop = () => {
-    window.scrollTo({
-      top: 0,
-      behavior: 'smooth', 
-    });
-  };
-  useEffect(scrollToTop,[]);
-
   const [show, setShow] = useState(false);
   const handleClose = () => setShow(false);
   const handleShow = () => setShow(true);
-
+  useScrollToTop()
   return (
     <div>
       <section className="hero-inner mb-5">

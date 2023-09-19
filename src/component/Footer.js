@@ -1,5 +1,6 @@
 import React from 'react'
 import logo from '../images/logo.webp';
+import { Link } from 'react-router-dom';
 
 function Footer() {
   return (
@@ -21,9 +22,9 @@ function Footer() {
             </div>
             <div className="col-lg-12 mb-5 text-center">
               <div className="footer-menu">
-                <a href="">Home</a>
-                <a href="">About Us</a>
-                <a href="">Products</a>
+              <Link to="/">Home</Link>
+                <Link to="/aboutus">About Us</Link>
+                <Link to="/category">Category</Link>
                 <a href="">Franchise Corner</a>
                 <a href="">Contact Us</a>
               </div>
